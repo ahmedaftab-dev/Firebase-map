@@ -1,0 +1,14 @@
+.head-block{
+    padding: 2rem 0;
+}
+.head-block-attr-span{
+    font-weight: 600;
+}
+
+    @media (min-width:768px) {
+        .head-block-middle{
+        border-left: 1px solid #bdbdbd;
+        border-right: 1px solid #bdbdbd;
+    }
+}
+    

@@ -1,0 +1,30 @@
+.loc-detail-container{
+    padding:2rem 0;
+}
+.loc-detail-card{
+    background: #fafafa;
+    border-radius: 10px;
+    margin-bottom: 16px;
+    box-shadow: 0 0.1rem 1rem rgb(0 0 0 / 10%);
+
+}
+.time-col{
+    padding: 1rem;
+    text-align: center;
+}
+.brand-img{
+    height: 50px;
+    margin-right: 10px;
+}
+.icon-info-col{
+    display: flex;
+}
+.card-row{
+    height: 100px;
+
+}
+@media  (max-width:992px) {
+    .card-row{
+        height: unset;
+    }
+}
